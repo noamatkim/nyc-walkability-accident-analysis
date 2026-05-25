@@ -4,8 +4,7 @@ __pycache__/
 *$py.class
 
 # Ignore raw data files
-data/raw/*
-data/processed/*
+data/
 
 # C extensions
 *.so
